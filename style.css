@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-image: url(soft-blurry-texture-background-beautiful-blue-abstractionxa_97567-1957.avif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.kulrang {
+    color: rgb(117, 117, 117);
+}
+
+.kulrang2 {
+    color: rgb(117, 117, 117);
+    margin-top: 20%;
+}
+
+
+
+/* .row{
+    width: 610px;
+} */
